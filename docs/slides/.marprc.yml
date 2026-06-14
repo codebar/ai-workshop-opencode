@@ -1,0 +1,5 @@
+options:
+  markdown:
+    html: true
+themeSet:
+  - ./themes/codebar.css
