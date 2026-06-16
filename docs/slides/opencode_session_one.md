@@ -173,9 +173,9 @@ While you watch, pay attention to:
 
 Each student is paired **1:1 with a coach** — together you pick one challenge and work through it as a team.
 
-1. [Challenge one](../challenges/challenge_one.md) — _context: TBD_
-2. [Challenge two](../challenges/challenge_two.md) — _context: TBD_
-3. [Challenge three](../challenges/challenge_three.md) — _context: TBD_
+1. [Challenge one](../challenges/challenge_one.md) — _Build a fun single-page invitation app with an impossible-to-click "No" button_
+2. [Challenge two](../challenges/challenge_two.md) — _Create a classic Space Invaders arcade game with canvas rendering and game-feel polish_
+3. [Challenge three](../challenges/challenge_three.md) — _Build a fullstack Todo List app with REST API, SQLite persistence, and automated tests_
 
 **Before you start:** fork [github.com/codebar/ai-workshop-opencode](https://github.com/codebar/ai-workshop-opencode) and clone your fork locally — that gives you a sandbox to commit your work into.
 
