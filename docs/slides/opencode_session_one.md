@@ -19,10 +19,9 @@ html: true
 
 <div class="meta">
 
-**Presenter:** _Karel M._ - [_@oricha_](https://github.com/oricha)
-**Co-host:** _Andy D._ [_@mkdir-andy_](https://github.com/mkdir-andy)
+**Presenter:** _Andy D._ [_@mkdir-andy_](https://github.com/mkdir-andy)
 
-**Sponsor:** [_Factoria F5_](https://factoriaf5.org/)
+**Sponsor:** [_Le Wagon_](https://www.lewagon.com/)
 
 </div>
 
