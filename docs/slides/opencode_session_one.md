@@ -81,7 +81,7 @@ Share of real GitHub issues each model resolves on **SWE-bench Verified** — fr
   <div class="bench-track"><div class="bench-fill paid" style="width: 96%"></div></div>
   <div class="bench-val">96%</div>
 
-  <div class="bench-name">GLM-5.3-Flash <span class="tag free">free</span></div>
+  <div class="bench-name">LongCat 2.5 <span class="tag free">free</span></div>
   <div class="bench-track"><div class="bench-fill free" style="width: 92%"></div></div>
   <div class="bench-val">92%</div>
 
@@ -89,17 +89,13 @@ Share of real GitHub issues each model resolves on **SWE-bench Verified** — fr
   <div class="bench-track"><div class="bench-fill free" style="width: 89%"></div></div>
   <div class="bench-val">89%</div>
 
-  <div class="bench-name">Beam 1.0 <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 82%"></div></div>
-  <div class="bench-val">82%</div>
+  <div class="bench-name">Qwen 3.8 27B <span class="tag free">free</span></div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 86%"></div></div>
+  <div class="bench-val">86%</div>
 
-  <div class="bench-name">MiMo-V2.6-Flash <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 79%"></div></div>
-  <div class="bench-val">79%</div>
-
-  <div class="bench-name">Big Pickle <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 75%"></div></div>
-  <div class="bench-val">75%</div>
+  <div class="bench-name">Qwen3-Coder-Next <span class="tag free">free</span></div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 71%"></div></div>
+  <div class="bench-val">71%</div>
 </div>
 
 <div class="bench-caption">Illustrative (mini-SWE-agent harness) — check live leaderboards at <a href="https://www.swebench.com/">swebench.com</a> or <a href="https://www.vals.ai/benchmarks/swebench">vals.ai</a>.</div>
