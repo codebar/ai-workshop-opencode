@@ -66,43 +66,43 @@ An **agent** is an LLM in a loop with tools.
 
 ## Free vs paid — closer than you'd think
 
-Share of real GitHub issues each model resolves on **SWE-bench Verified** — free models are within striking distance.
+Share of real GitHub issues each model resolves on **SWE-bench Verified** — free and open models now rival frontier paid tiers.
 
 <div class="benchmark">
-  <div class="bench-name">Claude Opus 4.5 <span class="tag paid">paid</span></div>
-  <div class="bench-track"><div class="bench-fill paid" style="width: 82%"></div></div>
+  <div class="bench-name">Claude Opus 5 / 5.5 <span class="tag paid">paid</span></div>
+  <div class="bench-track"><div class="bench-fill paid" style="width: 97%"></div></div>
+  <div class="bench-val">97%</div>
+
+  <div class="bench-name">GPT-5.6 Sol / GPT-6 Astra <span class="tag paid">paid</span></div>
+  <div class="bench-track"><div class="bench-fill paid" style="width: 96%"></div></div>
+  <div class="bench-val">96%</div>
+
+  <div class="bench-name">DeepSeek V4 Pro <span class="tag paid">paid</span></div>
+  <div class="bench-track"><div class="bench-fill paid" style="width: 96%"></div></div>
+  <div class="bench-val">96%</div>
+
+  <div class="bench-name">GLM-5.3-Flash <span class="tag free">free</span></div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 92%"></div></div>
+  <div class="bench-val">92%</div>
+
+  <div class="bench-name">DeepSeek V4.1 Flash <span class="tag free">free</span></div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 89%"></div></div>
+  <div class="bench-val">89%</div>
+
+  <div class="bench-name">Beam 1.0 <span class="tag free">free</span></div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 82%"></div></div>
   <div class="bench-val">82%</div>
 
-  <div class="bench-name">Claude Sonnet 4.5 <span class="tag paid">paid</span></div>
-  <div class="bench-track"><div class="bench-fill paid" style="width: 77%"></div></div>
-  <div class="bench-val">77%</div>
-
-  <div class="bench-name">GPT-5 <span class="tag paid">paid</span></div>
-  <div class="bench-track"><div class="bench-fill paid" style="width: 74%"></div></div>
-  <div class="bench-val">74%</div>
-
-  <div class="bench-name">DeepSeek V4 Flash <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 65%"></div></div>
-  <div class="bench-val">65%</div>
-
-  <div class="bench-name">Nemotron 3 Ultra <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 62%"></div></div>
-  <div class="bench-val">62%</div>
+  <div class="bench-name">MiMo-V2.6-Flash <span class="tag free">free</span></div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 79%"></div></div>
+  <div class="bench-val">79%</div>
 
   <div class="bench-name">Big Pickle <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 58%"></div></div>
-  <div class="bench-val">58%</div>
-
-  <div class="bench-name">MiMo V2.5 <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 52%"></div></div>
-  <div class="bench-val">52%</div>
-
-  <div class="bench-name">North Mini Code <span class="tag free">free</span></div>
-  <div class="bench-track"><div class="bench-fill free" style="width: 48%"></div></div>
-  <div class="bench-val">48%</div>
+  <div class="bench-track"><div class="bench-fill free" style="width: 75%"></div></div>
+  <div class="bench-val">75%</div>
 </div>
 
-<div class="bench-caption">Illustrative — check the live leaderboard at <a href="https://www.swebench.com/">swebench.com</a>.</div>
+<div class="bench-caption">Illustrative (mini-SWE-agent harness) — check live leaderboards at <a href="https://www.swebench.com/">swebench.com</a> or <a href="https://www.vals.ai/benchmarks/swebench">vals.ai</a>.</div>
 
 ---
 
